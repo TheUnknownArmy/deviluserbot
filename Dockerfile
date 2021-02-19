@@ -1,4 +1,4 @@
-FROM Devil/DevilBot:latest
+FROM luciifeermorningstar/deviluserbot:latest
 
 #clonning repo 
 RUN git clone https://github.com/lucifeermorningstar/deviluserbot.git/root/userbot
